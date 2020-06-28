@@ -112,3 +112,12 @@ dist
 .vscode-test
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+
+# Inseridas por mim
+.idea/
+.vscode/
+build/
+temp/
+
+tmp/*
+!tmp/.gitkeep
